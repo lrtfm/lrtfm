@@ -8,11 +8,12 @@
 
 #### Skills and Languages
 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=ffffff)
+![Matlab][badge-matlab]
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=ffffff)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matlab][badge-matlab]
+
 <!--![Mathematica](https://img.shields.io/badge/Mathematica-%23DD1100.svg?style=for-the-badge&logo=wolframmathematica&logoColor=ffffff)-->
 
 <!--
@@ -52,3 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[badge-matlab]: ./images/MATLAB-%23FAE4DC.svg
